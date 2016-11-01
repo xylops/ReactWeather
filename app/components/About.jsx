@@ -12,7 +12,8 @@ var About = (props) => {
     return(
         <div>
             <h3>About</h3>
-            <p>Welcome to the About Page</p>
+            <p>The Code could be found in </p>
+            <a href="https://github.com/xylops/ReactWeather">https://github.com/xylops/ReactWeather</a>
         </div>
     );
 };
