@@ -10,7 +10,7 @@ var React = require('React');
 
 var Examples = (props) => {
     return(
-        <h3>Examples Compnent</h3>
+        <h3>Examples Compnent!</h3>
     );
 }
 
