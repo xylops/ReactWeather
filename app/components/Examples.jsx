@@ -15,7 +15,7 @@ var Examples = (props) => {
             <p className>There are a few Example Loactions to try out</p>
             <ul>
                 <li>
-                    <Link to='/?location=Hong%Kong'>Hong Kong, HK</Link>
+                    <Link to='/?location=Taipei'>Taipei, TW</Link>
                 </li>
                 <li>
                     <Link to='/?location=japan'>Japan, JPN</Link>
